@@ -25,5 +25,4 @@ Sou um desenvolvedor focado em construir sistemas escaláveis, explorando o ecos
 
 ### 📊 Minhas Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoseCLins&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/JoseCLins)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCLins&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/JoseCLins)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoseCLins&theme=tokyonight&hide_border=true)](https://github.com/JoseCLins)
