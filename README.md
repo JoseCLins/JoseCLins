@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=00ADD8&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Neto!+%F0%9F%91%8B)](https://github.com/JoseCLins)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=00ADD8&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Jos%C3%A9+Carlos!+%F0%9F%91%8B)](https://github.com/JoseCLins)
 
 Sou um desenvolvedor focado em construir sistemas escaláveis, explorando o ecossistema full-stack e otimizando pipelines de entrega. Meu objetivo principal é transformar gargalos de infraestrutura e gestão em soluções tecnológicas de alto impacto.
 
