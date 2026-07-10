@@ -6,7 +6,7 @@ Atualmente, estou focado em construir sistemas escaláveis, explorando o ecossis
 * 🔭 Atualmente desenvolvendo o **CloudShield Engine**, um sistema de observabilidade e firewall em tempo real.
 * 🌱 Aprofundando meus conhecimentos em concorrência, arquitetura de redes, proxy reverso e automação de deploys.
 * 💡 Tenho experiência na criação de soluções do zero, unindo interfaces web modernas a backends robustos e seguros.
-* 📫 Como falar comigo: [(https://www.linkedin.com/in/joseclins/)]
+* 📫 Como falar comigo: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseclins/)
 
 ### 💻 Stack Tecnológica
 
