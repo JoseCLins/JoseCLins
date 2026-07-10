@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=00ADD8&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Jos%C3%A9+Carlos!+%F0%9F%91%8B)](https://github.com/JoseCLins)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=2000&color=00ADD8&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Neto!+%F0%9F%91%8B)](https://github.com/JoseCLins)
 
-Atualmente, estou focado em construir sistemas escaláveis, explorando o ecossistema full-stack e otimizando pipelines de entrega.
+Sou um desenvolvedor focado em construir sistemas escaláveis, explorando o ecossistema full-stack e otimizando pipelines de entrega. Meu objetivo principal é transformar gargalos de infraestrutura e gestão em soluções tecnológicas de alto impacto.
 
 ### 🚀 Sobre mim
-* 🔭 Atualmente desenvolvendo o **CloudShield Engine**, um sistema de observabilidade e firewall em tempo real.
-* 🌱 Aprofundando meus conhecimentos em concorrência, arquitetura de redes, proxy reverso e automação de deploys.
-* 💡 Tenho experiência na criação de soluções do zero, unindo interfaces web modernas a backends robustos e seguros.
+* 🔭 Liderando o desenvolvimento do **CloudShield Engine**, um sistema de observabilidade e firewall em tempo real, e arquitetando a plataforma SaaS **Sinaliza**.
+* 💼 Tenho experiência comprovada na criação de **sistemas corporativos e B2B**, como a implementação de um sistema centralizado de gestão, arquivos e comunicação para uma rede de franquias com 16 lojas.
+* 🌱 Aprofundando conhecimentos em alta concorrência, infraestrutura de redes (túneis reversos), proxy e automação de deploys.
+* ⚡ Curiosidade: Quando não estou configurando servidores ou codando em Go, estou aprendendo a tocar violão ou montando estratégias e times no Pokémon.
 * 📫 Como falar comigo: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseclins/)
 
 ### 💻 Stack Tecnológica
@@ -21,3 +22,10 @@ Atualmente, estou focado em construir sistemas escaláveis, explorando o ecossis
 ![Caddy](https://img.shields.io/badge/caddy-%2300A2C9.svg?style=for-the-badge&logo=caddy&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/pocketbase-%23B8E986.svg?style=for-the-badge&logo=pocketbase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseCLins&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCLins&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
