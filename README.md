@@ -1,12 +1,12 @@
-# Olá, sou o Neto! 👋
+# Olá, sou o José Carlos! 👋
 
-Sou estudante de Ciência da Computação em Pernambuco, apaixonado por resolver problemas complexos através de engenharia de software e infraestrutura. Atualmente, estou focado em construir sistemas escaláveis, explorando o ecossistema full-stack e otimizando pipelines de entrega.
+Atualmente, estou focado em construir sistemas escaláveis, explorando o ecossistema full-stack e otimizando pipelines de entrega.
 
 ### 🚀 Sobre mim
 * 🔭 Atualmente desenvolvendo o **CloudShield Engine**, um sistema de observabilidade e firewall em tempo real.
 * 🌱 Aprofundando meus conhecimentos em concorrência, arquitetura de redes, proxy reverso e automação de deploys.
 * 💡 Tenho experiência na criação de soluções do zero, unindo interfaces web modernas a backends robustos e seguros.
-* 📫 Como falar comigo: [Seu E-mail ou Link do LinkedIn]
+* 📫 Como falar comigo: (https://www.linkedin.com/in/joseclins/)
 
 ### 💻 Stack Tecnológica
 
